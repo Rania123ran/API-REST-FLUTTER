@@ -1,2 +1,2 @@
-![Home Screen](screenshots/Screen1.png)
-![Followers Screen](screenshots/Screen2.png)
+![Home Screen](Screenshots/Screen1.png)
+![Followers Screen](Screenshots/Screen2.png)
